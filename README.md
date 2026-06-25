@@ -44,3 +44,8 @@ Request are open!! Please read Support & Custom Requests below.
 If a theme breaks or if you need assistance, please DM me on Discord: `@gyozagames`
 
 I also make custom themes for free! If you want a personalized theme featuring your favorite anime, characters, wallpapers, or GIFs, just shoot me a message on Discord with your ideas and details.
+
+## Credits & Disclaimer
+I do not own any of the artwork, wallpapers, or GIFs used in these themes. All rights belong to the original artists, animation studios, and creators. The media used in these setups was sourced from public wallpaper repositories and is used strictly for personal, non-commercial customization purposes. 
+
+If you are the original creator of any asset used here and would like it credited or removed, please DM me on Discord (`@gyozagames`) and I will update it immediately.

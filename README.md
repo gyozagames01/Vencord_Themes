@@ -1,5 +1,8 @@
 # Vencord_Themes
 
+> [!WARNING]
+> Photosensitivity Notice: Some themes contain flashing GIF elements and highly vibrant backgrounds. Please use caution if you are sensitive to bright or fast-moving lights.
+
 Custom Vencord themes inspired by popular anime. This collection features vibrant layouts blending high-quality anime wallpapers with dynamic, animated GIF backgrounds. Each theme includes meticulously matched color palettes for text, sidebars, and buttons to give your Discord client a personalized and cohesive aesthetic.
 
 ## Installation Methods

@@ -22,7 +22,8 @@ I made these themes specifically using client extensions on desktop. Because cus
 ### Aot_Levi
 * Anime: Attack On Titan
 * Theme File: [Click here for Theme Link](AOT_Levi.css)
-* Preview: <img width="500" height="281" alt="gPnTgRA" src="https://github.com/user-attachments/assets/d5c95545-85a8-4019-814e-fa32979fff60" />
+* Preview:
+* <img width="500" height="281" alt="gPnTgRA" src="https://github.com/user-attachments/assets/d5c95545-85a8-4019-814e-fa32979fff60" />
 
 
 ## Support

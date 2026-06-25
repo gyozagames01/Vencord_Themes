@@ -7,6 +7,9 @@ Custom Vencord themes inspired by popular anime. This collection features vibran
 
 ## Installation Methods
 
+### Video coming soon...
+If you encounter any issues during setup, need help, or find a broken layout, please read the **Support & Custom Requests** section at the bottom of the page.
+
 ### Vencord Setup (Recommended)
 * **Option A (Online Link):** Copy the Raw URL of the theme file, open Discord, go to User Settings > Vencord > Themes, paste the link into the "Online Themes" box, and press Enter.
 * **Option B (File Download):** Download the `.css` file, open Discord, go to User Settings > Vencord > Themes, click "Open Themes Folder", and drop the file inside.

@@ -1,7 +1,7 @@
 /**
  * @name AOT_Levi
  * @author gyozagames
- * @description heh
+ * @description Give me feedback on dc @gyozagames
  */
  
 .app__160d8 {
@@ -754,7 +754,7 @@
 .theme-dark .calendarPicker_d27f17 .react-datepicker__day--outside-month,
 .theme-dark .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--disabled,
 .theme-dark .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--disabled:hover {
-    background-color: rgba(216, 17, 17, .29);
+    background-color: rgb(255, 0, 0);
     color: rgba(246, 246, 247, .5);
 }
 
@@ -1598,7 +1598,7 @@
 
 .disabled_e18e73 {
     opacity: 1;
-    background-color: rgba(221, 75, 75, .3);
+    background-color: rgb(255, 0, 0);
     padding: 1px 9px;
 }
 
@@ -1708,7 +1708,7 @@
 }
 
 .bd-toast.toast-success {
-    background-color: #FFCCCB;
+    background-color: #ff0400;
 }
 
 .auto_d125d2::-webkit-scrollbar,
@@ -1910,7 +1910,7 @@
 }
 
 #app-mount .lookFilled__201d5.colorGreen__201d5 {
-    background-color: #FFCCCB !important;
+    background-color: #23A55A !important;
     opacity: .8;
     transition: opacity .2s ease-in;
 }
@@ -1920,7 +1920,7 @@
 }
 
 #app-mount .lookFilled__201d5.colorGreen__201d5:disabled {
-    background-color: #FFCCCB;
+    background-color: #ff0000;
 }
 
 .body_b9fccc,
@@ -2345,7 +2345,7 @@
 }
 
 .lookOutlined__201d5.colorGreen__201d5 {
-    background-color: #FFCCCB;
+    background-color: #ff0000;
     border-color: transparent;
     color: white;
 }
@@ -2622,7 +2622,7 @@
 
 .rowContainer__991a0 {
     border-radius: 4px;
-    background-color: #FFCCCB !important;
+    background-color: #ff0000 !important;
 }
 
 .visual-refresh .wrapper_cb9592.minimum_cb9592 {
@@ -3716,7 +3716,7 @@
 }
 
 .roleMessagePreview__3efc4 {
-    background-color: rgba(196, 0, 0, .4);
+    background-color: rgba(255, 0, 0, 0.8);
     border: none;
 }
 
@@ -5180,7 +5180,7 @@ span[class*="mention_"]:hover {
 [class*="userPopoutOuter_"],
 [class*="popout_"] [class*="outer_"],
 div[class*="userPopoutOuter_"] {
-    background: rgba(46, 140, 106, 0.65) !important; /* Green at 65% solid opacity */
+    background: #CE9B96 !important;
     background-color: rgba(46, 140, 106, 0.65) !important;
     background-image: none !important;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5) !important;
@@ -5244,3 +5244,11 @@ nav[class*="privateChannels_"],
 nav[class*="privateChannels_"] > div {
     background-color: rgba(30, 31, 34, 0.4) !important; 
     background: rgba(30, 31, 34, 0.4) !important;
+}
+:root { --button-filled-positive-bg-hover: #C79F9D !important; }
+
+
+
+
+
+

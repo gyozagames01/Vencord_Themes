@@ -31,6 +31,16 @@ I made these themes specifically using client extensions on desktop. Because cus
 * Preview:
 <img width="800" height="450" alt="7330bed2d5898036a9c328e78ec76ef4" src="https://github.com/user-attachments/assets/90d48004-8823-40cb-8e9d-c90ca2a168d5" />
 
+### Yuno_Theme
+* Anime: Black Clover
+* Theme File: .[Click here for Theme Link](Yuno_Theme.css)
+* Preview:
+<img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/d8b9257d-4aad-4559-a602-2fe385bfbe8c" />
 
-## Support
+## More Coming Soon...
+Request are open!! Please read Support & Custom Requests below.
+
+## Support & Custom Requests
 If a theme breaks or if you need assistance, please DM me on Discord: `@gyozagames`
+
+I also make custom themes for free! If you want a personalized theme featuring your favorite anime, characters, wallpapers, or GIFs, just shoot me a message on Discord with your ideas and details.

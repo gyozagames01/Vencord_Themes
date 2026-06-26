@@ -5136,30 +5136,34 @@ div[class*="tutorialContainer_"] svg[class*="homeIcon_"] {
     fill: var(--text-normal, #b5bac1) !important;
     transition: none !important;
 }
-span[class*="mention_"], 
+
+span[class*="mention_"],
 [class*="mention_"] *,
-.mention, 
-.interactive {
-    opacity: 1 !important;
-    visibility: visible !important;
-    display: inline-flex !important;
-    align-items: center !important;
+.mention,
+.interactive,
+[class*="channelMention-"], 
+[class*="wrapper-"] {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: inline !important; 
+  position: relative !important;
+  pointer-events: auto !important; 
+  transform: none !important;
 }
 
-span[class*="mention_"] {
-    background-color: rgba(94, 141, 242, 0.15) !important; 
-    color: #5e8df2 !important; 
-    font-weight: 600 !important;
-    padding: 0 4px !important;
-    border-radius: 4px !important;
-    transition: background-color 0.1s ease, color 0.1s ease !important;
+span[class*="mention_"], 
+.mention,
+[class*="channelMention-"] {
+  cursor: pointer !important;
 }
 
-span[class*="mention_"]:hover {
-    background-color: #5e8df2 !important; 
-    color: #ffffff !important; 
-    cursor: pointer !important;
+span[class*="mention_"]:hover,
+.mention:hover,
+[class*="channelMention-"]:hover {
+  background-color: #5e8df2 !important;
+  color: #ffffff !important;
 }
+
 
 [class*="userProfileModalOuter_"],
 [class*="userProfileModalInner_"],

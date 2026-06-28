@@ -39,7 +39,7 @@ I made these themes specifically using client extensions on desktop. Because cus
 * Preview:
 > [!NOTE]
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
-<img width="500" height="250" alt="Aot_Mikasa" src="https://github.com/user-attachments/assets/ca38c2a5-ecf2-422e-887b-2f555d0439e5" />
+<img width="500" height="250" alt="Aot_Mikasa" src="https://github.com/user-attachments/assets/67dcc25e-aa8d-4776-97b6-e52b18a60863" />
 
 ### Ulquiorra_Cifer_Theme
 * Anime: Bleach

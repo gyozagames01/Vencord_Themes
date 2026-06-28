@@ -25,17 +25,25 @@ I made these themes specifically using client extensions on desktop. Because cus
 
 ## Themes Collection
 
-### Aot_Levi
+### Aot_Levi & Aot_Levi_V2
 * Anime: Attack On Titan
-* Theme File: [Click here for Theme Link](AOT_Levi.css)
+* Theme File: [Click here for Theme Link](AOT_Levi.css) & [Click here for V2 Link](AOT_Levi_V2.css)
 * Preview:
 > [!NOTE]
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
  <img width="500" height="281" alt="gPnTgRA" src="https://github.com/user-attachments/assets/d5c95545-85a8-4019-814e-fa32979fff60" />
 
+### Aot_Mikasa
+* Anime: Attack On Titan
+* Theme File: [Click here for Theme Link](AOT_Mikasa.css)
+* Preview:
+* > [!NOTE]
+> **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
+Preview dead
+
 ### Ulquiorra_Cifer_Theme
 * Anime: Bleach
-* Theme File: .[Click here for Theme Link](Ulquiorra_Cifer_Theme.css)
+* Theme File: [Click here for Theme Link](Ulquiorra_Cifer_Theme.css)
 * Preview:
   > [!NOTE]
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
@@ -43,7 +51,7 @@ I made these themes specifically using client extensions on desktop. Because cus
 
 ### Yuno_Theme
 * Anime: Black Clover
-* Theme File: .[Click here for Theme Link](Yuno_Theme.css)
+* Theme File: [Click here for Theme Link](Yuno_Theme.css)
 * Preview:
 <img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/d8b9257d-4aad-4559-a602-2fe385bfbe8c" />
 

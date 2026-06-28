@@ -37,15 +37,15 @@ I made these themes specifically using client extensions on desktop. Because cus
 * Anime: Attack On Titan
 * Theme File: [Click here for Theme Link](AOT_Mikasa.css)
 * Preview:
-* > [!NOTE]
+> [!NOTE]
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
-Preview dead
+<img width="500" height="250" alt="Aot_Mikasa" src="https://github.com/user-attachments/assets/ca38c2a5-ecf2-422e-887b-2f555d0439e5" />
 
 ### Ulquiorra_Cifer_Theme
 * Anime: Bleach
 * Theme File: [Click here for Theme Link](Ulquiorra_Cifer_Theme.css)
 * Preview:
-  > [!NOTE]
+> [!NOTE]
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
 <img width="800" height="450" alt="7330bed2d5898036a9c328e78ec76ef4" src="https://github.com/user-attachments/assets/90d48004-8823-40cb-8e9d-c90ca2a168d5" />
 

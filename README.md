@@ -57,6 +57,12 @@ Preview of what most themes may look like:
 * Preview:
 <img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/d8b9257d-4aad-4559-a602-2fe385bfbe8c" />
 
+### Roxy_Theme_V2
+* Anime: Mushoku Tensei Jobless Reincarnation
+* Theme File: [Click here fore Theme Link](Roxy_Theme_V2.css)
+* Preview:
+<img width="6048" height="3402" alt="wallhaven-x6vlw3 (1)" src="https://github.com/user-attachments/assets/fea93aca-315b-4593-a960-acc3208dba57" />
+
 ## More Coming Soon...
 Request are open!! Please read Support & Custom Requests below.
 

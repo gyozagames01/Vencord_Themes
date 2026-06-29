@@ -1,7 +1,7 @@
 /**
  * @name AOT_Levi_V2
  * @author gyozagames
- * @description More themes at: https://github.com/gyozagames01/Vencord_Themes
+ * @description DM me @gyozagames for feedback!!
  */
 .app__160d8 {
     background-image: url(https://files.catbox.moe/erq46k.png);
@@ -381,7 +381,7 @@
 }
 
 .reactionTooltipText-iAWHhX a {
-    color: #4E5058;
+    color: #7EB8D4;
     font-weight: bold;
     background-color: black;
     padding: 2px;
@@ -798,7 +798,12 @@
 }
 
 .markup__75297 a, .mutedChannelsHook_f1ed13 {
-    color: #4E5058;
+    color: #7EB8D4;
+}
+
+.markup__75297 a:hover {
+    color: #A8D4E8;
+    text-decoration: underline;
 }
 
 .markup__75297 {
@@ -4352,7 +4357,7 @@
 }
 
 .link-color {
-    color: #4E5058;
+    color: #7EB8D4;
 }
 
 .container_fed6d3 {

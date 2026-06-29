@@ -1,7 +1,7 @@
 /**
  * @name AOT_Mikasa
  * @author gyozagames
- * @description More themes at: https://github.com/gyozagames01/Vencord_Themes
+ * @description DM me @gyozagames for any feedback
  */
 .app__160d8 {
     background-image: url(https://files.catbox.moe/wfnunt.png);
@@ -381,7 +381,7 @@
 }
 
 .reactionTooltipText-iAWHhX a {
-    color: #4E5058;
+    color: #7EB8D4;
     font-weight: bold;
     background-color: black;
     padding: 2px;
@@ -798,7 +798,12 @@
 }
 
 .markup__75297 a, .mutedChannelsHook_f1ed13 {
-    color: #4E5058;
+    color: #7EB8D4;
+}
+
+.markup__75297 a:hover {
+    color: #A8D4E8;
+    text-decoration: underline;
 }
 
 .markup__75297 {
@@ -1453,15 +1458,16 @@
 }
 
 .auto_d125d2::-webkit-scrollbar, .auto__99f8c::-webkit-scrollbar {
-    width: 22px;
+    width: 6px;
 }
 
 .auto_d125d2::-webkit-scrollbar-thumb, .auto__99f8c::-webkit-scrollbar-thumb {
-    background-color: #4E5058;
+    background-color: rgba(78, 80, 88, 0.6);
+    border-radius: 100px;
 }
 
 .auto_d125d2::-webkit-scrollbar-thumb, .auto_d125d2::-webkit-scrollbar-track, .auto__99f8c::-webkit-scrollbar-track {
-    border-radius: 3px;
+    border-radius: 100px;
 }
 
 .auto_d125d2::-webkit-scrollbar-track, .auto__99f8c::-webkit-scrollbar-track {
@@ -1469,12 +1475,12 @@
 }
 
 .thin_d125d2::-webkit-scrollbar, .thin__99f8c::-webkit-scrollbar {
-    width: 12px;
+    width: 4px;
 }
 
 .thin_d125d2::-webkit-scrollbar-thumb, .thin__99f8c::-webkit-scrollbar-thumb {
-    border-radius: 2px;
-    background-color: #4E5058;
+    border-radius: 100px;
+    background-color: rgba(78, 80, 88, 0.5);
 }
 
 .thin_d125d2::-webkit-scrollbar-track, .thin__99f8c::-webkit-scrollbar-track {
@@ -2060,15 +2066,15 @@
 }
 
 .wrapper__29444 {
-    color: white;
+    color: rgba(180, 180, 185, 0.65);
 }
 
 .wrapper__29444 .container__13cf1 {
-    color: white;
+    color: rgba(180, 180, 185, 0.65);
 }
 
 .wrapper__29444.muted__29444, .wrapper__29444.muted__29444 .name__29444 {
-    color: #4E5058;
+    color: rgba(130, 130, 135, 0.5);
 }
 
 .button_e18686 {
@@ -2105,7 +2111,8 @@
 }
 
 .modeUnreadImportant__2ea32 .icon__2ea32, .modeUnreadImportant__2ea32:hover .icon__2ea32, .modeUnreadImportant__2ea32 .name__2ea32, .modeUnreadImportant__2ea32:hover .name__2ea32 {
-    color: #4E5058;
+    color: #F5ECD6;
+    font-weight: 700;
 }
 
 .container__37e49 .avatar__37e49 foreignObject {
@@ -2170,8 +2177,8 @@
 }
 
 .unread__2ea32 {
-    background-color: rgba(0, 0, 0, 0.35);
-    border: 2px outset #1a1a1a;
+    background-color: #F0E6D3;
+    border: 2px outset rgba(240, 230, 211, 0.4);
     border-radius: 3px;
 }
 
@@ -4350,7 +4357,7 @@
 }
 
 .link-color {
-    color: #4E5058;
+    color: #7EB8D4;
 }
 
 .container_fed6d3 {
@@ -4482,11 +4489,21 @@
 }
 
 :root, .theme-dark, .theme-light, [class*="app_"] {
-    --radius-round: 12px !important; 
+    --radius-round: 50% !important;
     --radius-md: 12px !important;
 }
 
 [class*="dmChannels_"] [class*="avatar_"], [class*="dmChannels_"] [class*="avatar_"] img, [class*="dmChannels_"] svg foreignObject, [class*="privateChannels_"] [class*="avatar_"], [class*="privateChannels_"] [class*="avatar_"] img, [class*="privateChannels_"] svg foreignObject {
+    border-radius: 50% !important;
+    mask: none !important;
+    -webkit-mask: none !important;
+    clip-path: none !important;
+}
+
+[class*="peopleListItem_"] [class*="avatar_"],
+[class*="peopleListItem_"] [class*="avatar_"] img,
+[class*="friend_"] [class*="avatar_"],
+[class*="friend_"] [class*="avatar_"] img {
     border-radius: 50% !important;
     mask: none !important;
     -webkit-mask: none !important;
@@ -4617,4 +4634,35 @@ nav[class*="privateChannels_"], nav[class*="privateChannels_"] > div {
 
 :root {
     --button-filled-positive-bg-hover: #C79F9D !important;
+}
+[class*="modeUnread_"] [class*="name_"],
+[class*="modeUnread_"] [class*="icon_"] {
+    color: #F5ECD6 !important;
+    font-weight: 700 !important;
+}
+
+[class*="unread_"][class*="wrapper_"] {
+    background-color: #F5ECD6 !important;
+}
+
+[class*="modeDefault_"] [class*="name_"],
+[class*="modeDefault_"] [class*="icon_"] {
+    color: rgba(180, 180, 185, 0.65) !important;
+    font-weight: 400 !important;
+}
+
+*::-webkit-scrollbar {
+    width: 6px !important;
+    height: 6px !important;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: rgba(78, 80, 88, 0.6) !important;
+    border-radius: 100px !important;
+    border: none !important;
+}
+
+*::-webkit-scrollbar-track {
+    background-color: transparent !important;
+    border: none !important;
 }

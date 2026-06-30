@@ -24,7 +24,7 @@ If you encounter any issues during setup, need help, or find a broken layout, pl
 I made these themes specifically using client extensions on desktop. Because custom clients pull media differently across different platforms, the animated GIFs and wallpapers might not look right or load properly on mobile devices or certain client setups. For the best look, I highly recommend using them on the Vencord desktop app.
 
 ## Themes Collection
-Preview of what most themes may look like:
+### Preview of what most themes may look like:
 <img width="1366" height="768" alt="Screenshot 2026-06-29 12 06 09" src="https://github.com/user-attachments/assets/39e9c1b7-9ca3-4271-a2b5-bf9570f0bd4f" />
 
 ### Aot_Levi & Aot_Levi_V2

@@ -51,9 +51,9 @@ I made these themes specifically using client extensions on desktop. Because cus
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
 <img width="800" height="450" alt="7330bed2d5898036a9c328e78ec76ef4" src="https://github.com/user-attachments/assets/90d48004-8823-40cb-8e9d-c90ca2a168d5" />
 
-### Yuno_Theme
+### Yuno_Theme & Yuno_Theme V2
 * Anime: Black Clover
-* Theme File: [Click here for Theme Link](Yuno_Theme.css)
+* Theme File: [Click here for Theme Link](Yuno_Theme.css)&[Click here for V2 Theme Link](Yuno_Theme_V2.css)
 * Preview:
 <img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/d8b9257d-4aad-4559-a602-2fe385bfbe8c" />
 

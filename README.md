@@ -29,7 +29,7 @@ I made these themes specifically using client extensions on desktop. Because cus
 
 ### Aot_Levi & Aot_Levi_V2
 * Anime: Attack On Titan
-* Theme File: [Click here for Theme Link](AOT_Levi.css) & [Click here for V2 Link](AOT_Levi_V2.css)
+* Theme File: [Click here for Theme Link](Old_Themes/AOT_Levi.css) & [Click here for V2 Link](AOT_Levi_V2.css)
 * Preview:
 > [!NOTE]
 > **Performance Note:** Depending on your device specs and where you open Discord (Desktop app vs. Web browser), the animated backgrounds might experience initial lag or stutter.
@@ -53,13 +53,13 @@ I made these themes specifically using client extensions on desktop. Because cus
 
 ### Yuno_Theme & Yuno_Theme V2
 * Anime: Black Clover
-* Theme File: [Click here for Theme Link](Yuno_Theme.css)&[Click here for V2 Theme Link](Yuno_Theme_V2.css)
+* Theme File: [Click here for Theme Link](Old_Themes/Yuno_Theme.css)&[Click here for V2 Theme Link](Yuno_Theme_V2.css)
 * Preview:
 <img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/d8b9257d-4aad-4559-a602-2fe385bfbe8c" />
 
 ### Roxy_Theme_V2
 * Anime: Mushoku Tensei Jobless Reincarnation
-* Theme File: [Click here fore Theme Link](Roxy_Theme_V2.css)
+* Theme File: [Click here for Theme Link](Roxy_Theme_V2.css)
 * Preview:
 <img width="6048" height="3402" alt="wallhaven-x6vlw3 (1)" src="https://github.com/user-attachments/assets/fea93aca-315b-4593-a960-acc3208dba57" />
 

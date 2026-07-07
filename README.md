@@ -39,7 +39,7 @@ Video tutorial coming soon...
 
 | Anime Theme | Files and Downloads | Visual Preview |
 | :--- | :--- | :--- |
-| **Aot_Levi & V2** | [V1 Theme Link](Legacy_Versions/AOT_Levi.css)<br>[V2 Theme Link](AOT_Levi_V2.css) | Lost(will fix as soon as possible) |
+| **Aot_Levi & V2** | [V1 Theme Link](Legacy_Versions/AOT_Levi.css)<br>[V2 Theme Link](AOT_Levi_V2.css) |<img width="640" height="362" alt="AOT_Compressed_Half_Frame" src="https://github.com/user-attachments/assets/736479b6-6816-43a8-8386-945c4c1ec816" />
 | **Aot_Mikasa** | [Theme Link](AOT_Mikasa.css) | <img width="500" height="250" alt="Aot_Mikasa" src="https://github.com/user-attachments/assets/c654f92c-3f12-4e90-8551-5c5a89d669be" /> |
 | **Ulquiorra_Cifer** | [Theme Link](Ulquiorra_Cifer_Theme.css) |<img width="800" height="450" alt="7330bed2d5898036a9c328e78ec76ef4" src="https://github.com/user-attachments/assets/e8e30e86-16e5-435e-8be1-cd719c01804c" />|
 | **Yuno_Theme & V2** | [V1 Theme Link](Legacy_Versions/Yuno_Theme.css)<br>[V2 Theme Link](Yuno_Theme_V2.css) |<img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/2eb0f7ac-31e1-4f64-87b7-cb3e0bdf2458" />|

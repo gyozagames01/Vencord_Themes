@@ -35,7 +35,7 @@ Video tutorial coming soon...
 ## Themes Collection
 
 ### Showcase Preview
-<img src="https://github.com" width="100%" alt="Main Showcase Preview" />
+<img width="1366" height="768" alt="Theme_Preview_Image" src="https://github.com/user-attachments/assets/f6533070-f54a-4612-a43a-71c330ce06b7" />
 
 | Anime Theme | Files and Downloads | Visual Preview |
 | :--- | :--- | :--- |

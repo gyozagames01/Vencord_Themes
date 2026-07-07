@@ -44,6 +44,7 @@ Video tutorial coming soon...
 | **Ulquiorra_Cifer** | [Theme Link](Ulquiorra_Cifer_Theme.css) |<img width="800" height="450" alt="7330bed2d5898036a9c328e78ec76ef4" src="https://github.com/user-attachments/assets/e8e30e86-16e5-435e-8be1-cd719c01804c" />|
 | **Yuno_Theme & V2** | [V1 Theme Link](Legacy_Versions/Yuno_Theme.css)<br>[V2 Theme Link](Yuno_Theme_V2.css) |<img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/2eb0f7ac-31e1-4f64-87b7-cb3e0bdf2458" />|
 | **Roxy_Theme_V2** | [Theme Link](Roxy_Theme_V2.css) |<img width="6048" height="3402" alt="wallhaven-x6vlw3 (1)" src="https://github.com/user-attachments/assets/7f66fed1-f932-4fbd-85b3-e7c524f16752" />|
+| **Sukuna_Theme** | [Theme Link](sukuna.css) |<img width="498" height="281" alt="221968" src="https://github.com/user-attachments/assets/0f8c951a-4598-404c-94d6-493068f7ff84" />|
 
 More themes coming soon!
 

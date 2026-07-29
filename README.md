@@ -3,6 +3,9 @@
 Custom Discord themes inspired by popular anime. This collection features vibrant layouts blending high-quality anime wallpapers with dynamic, animated GIF backgrounds. Each theme includes meticulously matched color palettes for text, sidebars, and buttons to give your Discord client a personalized and cohesive aesthetic.
 
 > [!IMPORTANT]
+> **Image/Gifs Not Loading** catbox.moe is currently down, please be patient, it should fix its self soon enough
+
+> [!IMPORTANT]
 > **Performance Note:** If you choose a theme with a GIF wallpaper, allow it to play through once. It may experience initial lag or stutter for a few seconds depending on your device specs and whether you use the desktop app or a web browser.
 
 > [!WARNING]

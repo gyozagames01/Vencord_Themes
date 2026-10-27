@@ -55,7 +55,7 @@ More themes coming soon!
 If a theme breaks, you encounter a bug, or you want to suggest color improvements, let me know!
 
 * **Free Custom Themes:** Requests are open! If you want a personalized theme featuring your favorite anime, characters, wallpapers, or GIFs, shoot me a DM.
-* **Discord Contact:** `@gyozagames`
+* **Discord Contact:** `@Nemui_Gyoza`
 
 ---
 

@@ -55,7 +55,7 @@ More themes coming soon!
 If a theme breaks, you encounter a bug, or you want to suggest color improvements, let me know!
 
 * **Free Custom Themes:** Requests are open! If you want a personalized theme featuring your favorite anime, characters, wallpapers, or GIFs, shoot me a DM.
-* **Discord Contact:** `@Nemui_Gyoza`
+* **Discord Contact:** `@nemui_gyoza`
 
 ---
 
@@ -63,4 +63,4 @@ If a theme breaks, you encounter a bug, or you want to suggest color improvement
 
 I do not own any of the artwork, wallpapers, or GIFs used in these themes. All rights belong to the original artists, animation studios, and creators. The media used in these setups was sourced from public wallpaper repositories and is used strictly for personal, non-commercial customization purposes. 
 
-If you are the original creator of any asset used here and would like it credited or removed, please DM me on Discord (`@Nemui_Gyoza`) and I will update it immediately.
+If you are the original creator of any asset used here and would like it credited or removed, please DM me on Discord (`@nemui_gyoza`) and I will update it immediately.

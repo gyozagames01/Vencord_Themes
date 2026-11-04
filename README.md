@@ -45,7 +45,7 @@ Video tutorial coming soon...
 | **Yuno_Theme & V2** | [V1 Theme Link](Legacy_Versions/Yuno_Theme.css)<br>[V2 Theme Link](Yuno_Theme_V2.css) |<img width="885" height="499" alt="1057942" src="https://github.com/user-attachments/assets/2eb0f7ac-31e1-4f64-87b7-cb3e0bdf2458" />|
 | **Roxy_Theme_V2** | [Theme Link](Roxy_Theme_V2.css) |<img width="6048" height="3402" alt="wallhaven-x6vlw3 (1)" src="https://github.com/user-attachments/assets/7f66fed1-f932-4fbd-85b3-e7c524f16752" />|
 | **Sukuna_Theme** | [Theme Link](sukuna.css) |<img width="498" height="281" alt="221968" src="https://github.com/user-attachments/assets/0f8c951a-4598-404c-94d6-493068f7ff84" />|
-| **Don_Quixote_Limbus_Company** | [Theme Link](Don_Quixote_Limbus_Company_theme.css) |<img width="1920" height="1080" alt="The_Index_Proxy_-_Effloresced_E G O_Procuration_Don_Quixote_Full_Uptied" src="https://github.com/user-attachments/assets/41ad97e9-7bd8-49d3-84b0-8c311e12c2eb" />
+| **Don_Quixote_Limbus_Company** | [Theme Link](Don_Quixote_Limbus_Company_Theme.css) |<img width="1920" height="1080" alt="The_Index_Proxy_-_Effloresced_E G O_Procuration_Don_Quixote_Full_Uptied" src="https://github.com/user-attachments/assets/41ad97e9-7bd8-49d3-84b0-8c311e12c2eb" />
 
 
 Please note that some themes may look be animated videos instead of still images. This is just a preview.

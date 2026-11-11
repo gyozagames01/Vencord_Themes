@@ -1,6 +1,11 @@
 # Sooooo, none of these themes work now;-;
-Updating these everytime discord updates is way too time consuming and unefficent so I will stop doing that. Instead, dm me in discord and I will make you a discord theme that never fails(or even if it does, can get repaired easily).
-Discord User: `@nemui_gyoza`
+**Active updates for these themes have been discontinued.** Manually updating them after every Discord release has become too time-consuming and inefficient.
+
+### Get a Stable, Custom Theme Instead
+If you want a custom Discord theme that is highly stable—and easily repaired if it ever breaks—please reach out to me directly. 
+
+* **Discord:** `@nemui_gyoza`
+
 
 # Vencord and BetterDiscord Anime Themes
 

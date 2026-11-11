@@ -7,18 +7,6 @@ If you want a custom Discord theme that is highly stable—and easily repaired i
 * **Discord:** `@nemui_gyoza`
 
 
-# Vencord and BetterDiscord Anime Themes
-
-Custom Discord themes inspired by popular anime. This collection features vibrant layouts blending high-quality anime wallpapers with dynamic, animated GIF backgrounds. Each theme includes meticulously matched color palettes for text, sidebars, and buttons to give your Discord client a personalized and cohesive aesthetic.
-
-> [!IMPORTANT]
-> **Performance Note:** If you choose a theme with a GIF wallpaper, allow it to play through once. It may experience initial lag or stutter for a few seconds depending on your device specs and whether you use the desktop app or a web browser.
-
-> [!WARNING]
-> **Photosensitivity Notice:** Some themes contain flashing GIF elements and highly vibrant backgrounds. Please use caution if you are sensitive to bright or fast-moving lights.
-
----
-
 ## Device and Compatibility Notice
 
 These themes were made specifically using client extensions on desktop. Because custom clients pull media differently across platforms, animated GIFs and wallpapers may not render or load properly on mobile devices. For the best experience, **use the Vencord desktop app**.
